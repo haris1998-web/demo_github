@@ -5,3 +5,5 @@ This is feature branch
 Greetings from Munich
 
 The weathere is really nice here
+
+The gui is faster for small changes
